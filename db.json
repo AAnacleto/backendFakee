@@ -1,0 +1,262 @@
+{
+ "Curriculo": [
+    {
+      "id": "1",
+      "dados": {
+        "nome": " ",
+        "nacionalidade": " ",
+        "estado_civil": " ",
+        "data_nascimento": " ",
+        "idade": " ",
+        "telefone": " ",
+        "email": " ",
+        "linkedin": " ",
+        "github": " "
+      },
+      "endereco": {
+        "cep": " ",
+        "bairro": " ",
+        "cidade": " ",
+        "logradouro": " ",
+        "uf": " ",
+        "complemento": " ",
+        "numero": " "
+      },
+      "objetivo": " ",
+      "formacao": [
+        {
+          "id": "1",
+          "faculdade": " ",
+          "curso": " ",
+          "periodo": " ",
+          "turno": " ",
+          "data_inicio": " ",
+          "data_termino": " ",
+          "status": " "
+        }
+      ],
+      "experiencia": [
+        {
+          "id": "1",
+          "empresa": " ",
+          "cargo": " ",
+          "data_inicio": " ",
+          "data_termino": " ",
+          "atividades": " "
+        }
+      ],
+      "idiomas": [
+        {
+          "id": "1",
+          "nome": " ",
+          "proeficiencia": " "
+        }
+      ],
+      "cursos": [
+        {
+          "id": " ",
+          "instituicao": " ",
+          "nome": " ",
+          "horas": " ",
+          "data_inicio": " ",
+          "data_termino": " "
+        }
+      ]
+    },
+    {
+      "id": "enjCnQ7",
+      "dados": {
+        "nome": " abraao licon ",
+        "nacionalidade": " americano",
+        "estado_civil": " solteiro",
+        "data_nascimento": "2022-04-06",
+        "idade": " ",
+        "telefone": " 81984846353",
+        "email": "abraao@gmail.com",
+        "linkedin": "www.linkedin.com.br",
+        "github": " "
+      },
+      "endereco": {
+        "cep": "53120-220",
+        "logradouro": "Rua Esdras Farias Sobrinho",
+        "complemento": "casa G",
+        "bairro": "Amaro Branco",
+        "localidade": "Olinda",
+        "uf": "PE",
+        "ibge": "2609600",
+        "gia": "",
+        "ddd": "81",
+        "siafi": "2491"
+      },
+      "objetivo": " Cargos de estagiario ",
+      "formacao": [
+        {
+          "id": 0,
+          "nome_faculdade": " aaaaaaaaa",
+          "curso": " aaaaaaaaaa",
+          "periodo": " aaaaa",
+          "turno": "Manhã",
+          "data_inicio": "2022-04-06",
+          "data_termino": "2022-04-07",
+          "status": "Terminado"
+        },
+        {
+          "id": 0,
+          "nome_faculdade": " aaaaaaaa",
+          "curso": " ssssss",
+          "periodo": " eeee",
+          "turno": "Tarde",
+          "data_inicio": "2022-02-07",
+          "data_termino": "2022-02-04",
+          "status": "Cursando"
+        }
+      ],
+      "experiencia": [
+        {
+          "id": 0,
+          "empresa": " aaaaaa",
+          "cargo": " aaaaaa",
+          "data_inicio": "2022-04-05",
+          "data_termino": "2022-04-15",
+          "atividades": " aaaaaaaaaaaaaaaaaaaa"
+        },
+        {
+          "id": 0,
+          "empresa": " wwwwwwwwwwww",
+          "cargo": " qqqqqqq",
+          "data_inicio": "2022-04-06",
+          "data_termino": "2022-04-01",
+          "atividades": " qqqqqqqqqqqq"
+        }
+      ],
+      "idiomas": [
+        {
+          "id": 0,
+          "nome": " ingles",
+          "proeficiencia": "Iniciante"
+        },
+        {
+          "id": 0,
+          "nome": " espanhol ",
+          "proeficiencia": "Intermediario"
+        }
+      ],
+      "cursos": [
+        {
+          "id": 0,
+          "instituicao": " wwwww",
+          "nome": " qqqq",
+          "horas": " ",
+          "data_inicio": "2022-04-19",
+          "data_termino": "2022-04-19"
+        },
+        {
+          "id": 0,
+          "instituicao": " wwwww",
+          "nome": " qqqqqqq",
+          "horas": " ",
+          "data_inicio": "2022-04-05",
+          "data_termino": "2022-04-14"
+        }
+      ]
+    },
+    {
+      "id": "AbNP5-T",
+      "dados": {
+        "nome": " abraao licon ",
+        "nacionalidade": " americano",
+        "estado_civil": " solteiro",
+        "data_nascimento": "2022-04-06",
+        "idade": " ",
+        "telefone": " 81984846353",
+        "email": "abraao@gmail.com",
+        "linkedin": "www.linkedin.com.br",
+        "github": " "
+      },
+      "endereco": {
+        "cep": "53120-220",
+        "logradouro": "Rua Esdras Farias Sobrinho",
+        "complemento": "casa G",
+        "bairro": "Amaro Branco",
+        "localidade": "Olinda",
+        "uf": "PE",
+        "ibge": "2609600",
+        "gia": "",
+        "ddd": "81",
+        "siafi": "2491"
+      },
+      "objetivo": " Cargos de estagiario ",
+      "formacao": [
+        {
+          "id": 0,
+          "nome_faculdade": " aaaaaaaaa",
+          "curso": " aaaaaaaaaa",
+          "periodo": " aaaaa",
+          "turno": "Manhã",
+          "data_inicio": "2022-04-06",
+          "data_termino": "2022-04-07",
+          "status": "Terminado"
+        },
+        {
+          "id": 0,
+          "nome_faculdade": " aaaaaaaa",
+          "curso": " ssssss",
+          "periodo": " eeee",
+          "turno": "Tarde",
+          "data_inicio": "2022-02-07",
+          "data_termino": "2022-02-04",
+          "status": "Cursando"
+        }
+      ],
+      "experiencia": [
+        {
+          "id": 0,
+          "empresa": " aaaaaa",
+          "cargo": " aaaaaa",
+          "data_inicio": "2022-04-05",
+          "data_termino": "2022-04-15",
+          "atividades": " aaaaaaaaaaaaaaaaaaaa"
+        },
+        {
+          "id": 0,
+          "empresa": " wwwwwwwwwwww",
+          "cargo": " qqqqqqq",
+          "data_inicio": "2022-04-06",
+          "data_termino": "2022-04-01",
+          "atividades": " qqqqqqqqqqqq"
+        }
+      ],
+      "idiomas": [
+        {
+          "id": 0,
+          "nome": " ingles",
+          "proeficiencia": "Iniciante"
+        },
+        {
+          "id": 0,
+          "nome": " espanhol ",
+          "proeficiencia": "Intermediario"
+        }
+      ],
+      "cursos": [
+        {
+          "id": 0,
+          "instituicao": " wwwww",
+          "nome": " qqqq",
+          "horas": " ",
+          "data_inicio": "2022-04-19",
+          "data_termino": "2022-04-19"
+        },
+        {
+          "id": 0,
+          "instituicao": " wwwww",
+          "nome": " qqqqqqq",
+          "horas": " ",
+          "data_inicio": "2022-04-05",
+          "data_termino": "2022-04-14"
+        }
+      ]
+    }
+   
+  ]
+}
